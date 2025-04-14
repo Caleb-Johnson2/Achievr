@@ -1,3 +1,7 @@
+<!-- Local image -->
+<p align="center">
+  <img src="AchievrLogo.png" alt="Project Logo" width="500"/>
+</p>
 # Todo-List-Reminder-For-School
 ## Installation Guide
 **Follow these steps to set up the Todo List system on your computer:**
