@@ -1,8 +1,3 @@
-<!-- Local image -->
-<p align="center">
-  <img src="AchievrLogo.png" alt="Project Logo" width="200"/>
-</p>
-
 # Todo-List-Reminder-For-School
 ## Installation Guide
 **Follow these steps to set up the Todo List system on your computer:**
@@ -162,7 +157,10 @@ Default is 30 minutes (1800 seconds), adjustable by modifying REMINDER_INTERVAL.
 ### CLOSE TERMINAL TO STOP PROGRAM
 ### TERMINAL WILL CLOSE ONCE ALL TASKS ARE COMPLETE
 
-
+<!-- Local image -->
+<p align="center">
+  <img src="AchievrLogo.png" alt="Project Logo" width="200"/>
+</p>
 
 
 
